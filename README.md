@@ -18,4 +18,9 @@ This playbook is for setting up version 5.x of the ELK Stack on a remote server.
  
  The plays in the playbook will run on the target server, installing ELK and the specified beats shippers. 
  
-[site.yml]: https://github.com/DanielBerman/ansible-elk-playbook/blob/master/site.yml
+#### Additional Ref:
+
+ 1. [ELK Guide]
+
+[site.yml]: https://github.com/exitosolutions/ansible-elk-playbook/blob/master/site.yml
+[ELK Guide]: https://www.elastic.co/guide/en/elastic-stack/current/installing-elastic-stack.html
